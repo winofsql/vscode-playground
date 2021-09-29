@@ -144,5 +144,5 @@ Emmet は、スニペットのアイデアをまったく新しいレベルに�
 ul>li.item$*5
 ```
 
->**ヒント:** [Emmet チートシート](http://docs.emmet.io/cheat-sheet/) は、Emmet 構文候補の素晴らしいソースです。 `emmet.syntaxProfiles` [setting](command:workbench.action.openGlobalSettings) を使用して、様々な言語で Emmet 機能を有効にすることもできます
+>**ヒント:** [Emmet チートシート](http://docs.emmet.io/cheat-sheet/) は、Emmet 構文候補の素晴らしいソースです。 `emmet.syntaxProfiles` [setting](command:workbench.action.openGlobalSettings) を使用して、様々な言語で Emmet 機能を有効にすることもできます。詳細については、[Emmet in VS Code](https://code.visualstudio.com/docs/editor/emmet) のドキュメントをご覧ください。
 
