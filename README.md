@@ -14,11 +14,7 @@ VS Code の中心であるエディタには多彩な機能が満載されてい
 
 それはマルチカーソル編集のための氷山の一角です。追加のアクションについては、`選択メニュー`の他に、便利な[キーボード操作リファレンスガイド](command:workbench.action.keybindingsReference)を参照してください。
 
-```css
-#p1 {background-color: #ff0000;}   /* red */
-#p2 {background-color: #00ff00;}   /* green */
-#p3 {background-color: #0000ff;}   /* blue */
-```
+![image](https://user-images.githubusercontent.com/1501327/135271074-dfe0750a-ee98-42b4-84b3-c5fc5ac330c4.png)
 
 > **CSS のヒント:** 上の例では、CSS についても色見本を提供しています。`＃p1` などの要素にカーソルを重ねると、この要素が HTML でどのように表現されるかが示されます。これは、言語固有となるエディタ機能の簡単な例でもあります。
 
