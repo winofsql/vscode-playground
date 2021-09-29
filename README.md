@@ -20,7 +20,7 @@ VS Code の中心であるエディタには多彩な機能が満載されてい
 
 ### インテリセンス (IntelliSense)
 
-Visual Studio Code には、JavaScript と TypeScript をサポートする強力な IntelliSense 機能があらかじめ組み込まれています。次の例では、エラーを示すアンダーライン(赤い波線)の前に配置される `.` (ドット)の直後にテキストのカーソルを置き、kb(editor.action.triggerSuggest) を押してインテリセンスを呼び出します。サジェスチョンが Request API からどのように提供されるかに注目してください。
+Visual Studio Code には、JavaScript と TypeScript をサポートする強力な IntelliSense 機能があらかじめ組み込まれています。次の例では、エラーを示すアンダーライン(赤い波線)の前に配置される `.` (ドット)の直後にテキストのカーソルを置き、**Ctrl+Space** を押してインテリセンスを呼び出します。サジェスチョンが Request API からどのように提供されるかに注目してください。
 
 ```js
 var express = require('express');
