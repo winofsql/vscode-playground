@@ -1,3 +1,2 @@
-# satokaz-tips
+# vscode-playground
 
-* [Visuasl Studio Code](vscode)
