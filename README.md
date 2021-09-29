@@ -8,8 +8,8 @@ VS Code の中心であるエディタには多彩な機能が満載されてい
 
 複数のカーソルを使用することで、ドキュメントの複数の部分を同時に編集できたりと、生産性が大幅に向上します。以下のコードブロックで次の操作を試してください:
 
-1. ボックス選択 - テキストブロックを選択するには **Shift+DownArrow**, **Shift+RightArrow**, **Shift+UpArrow**, **Shift+LeftArrow** のいずれかの組み合わせを押します。**Shift+Alt** を押しながらマウスでテキストを選択することもできます。
-2. カーソルの追加 - kb(editor.action.insertCursorAbove) または kb(editor.action.insertCursorBelow) を押すことで、上または下の行に新しいカーソルを追加します。<span class="shortcut mac-only">`⌥+Click`</span><span class="shortcut windows-only linux-only">`Alt+Click`</span> でマウスを使用して、どこにでもカーソルを追加することができます。
+1. カーソルの追加 - **Ctrl+Alt+UpArrow** または **Ctrl+Alt+DownArrow** を押すことで、上または下の行に新しいカーソルを追加します。*Alt+Click* でマウスを使用して、どこにでもカーソルを追加することができます。
+2. ボックス選択 - テキストブロックを選択するには **Shift+DownArrow**, **Shift+RightArrow**, **Shift+UpArrow**, **Shift+LeftArrow** のいずれかの組み合わせを押します。**Shift+Alt** を押しながらマウスでテキストを選択することもできます。
 3. 文字列のすべての出現箇所にカーソルを作成する - 文字列である 1 つのインスタンスを選択してください。 例えば、`background-color` を選択して kb(editor.action.selectHighlights) を押します。この状態で、何か文字を入力することにより、選択された全てのインスタンスを置き換えることができます。
 
 それはマルチカーソル編集のための氷山の一角です。追加のアクションについては、`選択メニュー`の他に、便利な[キーボード操作リファレンスガイド](command:workbench.action.keybindingsReference)を参照してください。
