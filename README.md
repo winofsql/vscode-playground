@@ -12,7 +12,7 @@ VS Code の中心であるエディタには多彩な機能が満載されてい
 2. ボックス選択 - テキストブロックを選択するには **Shift+DownArrow**, **Shift+RightArrow**, **Shift+UpArrow**, **Shift+LeftArrow** のいずれかの組み合わせを押します。**Shift+Alt** を押しながらマウスでテキストを選択することもできます。
 3. 文字列のすべての出現箇所にカーソルを作成する - 文字列である 1 つのインスタンスを選択してください。 例えば、`background-color` を選択して **Ctrl+Shift+L** を押します。この状態で、何か文字を入力することにより、選択された全てのインスタンスを置き換えることができます。
 
-それはマルチカーソル編集のための氷山の一角です。追加のアクションについては、`選択メニュー`の他に、便利な[キーボード操作リファレンスガイド](command:workbench.action.keybindingsReference)を参照してください。
+それはマルチカーソル編集のための氷山の一角です。追加のアクションについては、`選択メニュー`の他に、便利な[キーボード操作リファレンスガイド](https://github.com/winofsql/vscode-template/blob/main/keyboard.md)を参照してください。
 
 ![image](https://user-images.githubusercontent.com/1501327/135271074-dfe0750a-ee98-42b4-84b3-c5fc5ac330c4.png)
 
