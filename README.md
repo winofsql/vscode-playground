@@ -42,7 +42,7 @@ app.listen(3000);
 
 1. ![image](https://user-images.githubusercontent.com/1501327/163935969-adc1c298-3cc7-4d6d-a75b-5f08a9870368.png) または、![image](https://user-images.githubusercontent.com/1501327/163936038-444e1f8a-67d8-43b6-813c-ae5133f96f83.png) の操作で、行をコピーして、現在のカーソル位置の上または下に挿入します。
 2. ![image](https://user-images.githubusercontent.com/1501327/163936239-cb27be62-249c-4765-be18-dd7828df3525.png) または ![image](https://user-images.githubusercontent.com/1501327/163936278-29e8b53a-68f2-415f-979d-22112a8f9d35.png) の操作で、 行全体または選択された行を上下に移動します。
-3. kb(editor.action.deleteLines) の操作で、カーソルが置かれている行全体を削除します。
+3. ![image](https://user-images.githubusercontent.com/1501327/163936535-5e19dcbc-53eb-4a11-add5-c374e599adaa.png) の操作で、カーソルが置かれている行全体を削除します。
 
 ```json
 {
