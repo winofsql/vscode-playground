@@ -13,6 +13,8 @@ VS Code の中心であるエディタには多彩な機能が満載されてい
 3. 文字列のすべての出現箇所にカーソルを作成する - 文字列である 1 つのインスタンスを選択してください。 例えば、`background-color` を選択して ![image](https://user-images.githubusercontent.com/1501327/163931384-38644c7d-d597-41c8-a957-b787bb37f829.png)
  を押します。この状態で、何か文字を入力することにより、選択された全てのインスタンスを置き換えることができます。
 
+※ ![image](https://user-images.githubusercontent.com/1501327/163937296-a2bcb6f2-caf9-4b32-bf3e-87729c476016.png) で順次選択できます
+
 それはマルチカーソル編集のための氷山の一角です。追加のアクションについては、`選択メニュー`の他に、便利な[キーボード操作リファレンスガイド](https://github.com/winofsql/vscode-template/blob/main/keyboard.md)を参照してください。
 
 ![image](https://user-images.githubusercontent.com/1501327/135271074-dfe0750a-ee98-42b4-84b3-c5fc5ac330c4.png)
