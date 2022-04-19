@@ -10,7 +10,7 @@ VS Code の中心であるエディタには多彩な機能が満載されてい
 
 1. カーソルの追加 - **Ctrl+Alt+UpArrow** または **Ctrl+Alt+DownArrow** を押すことで、上または下の行に新しいカーソルを追加します。**Alt+Click** でマウスを使用して、どこにでもカーソルを追加することができます。
 2. ボックス選択 - テキストブロックを選択するには **Shift+DownArrow**, **Shift+RightArrow**, **Shift+UpArrow**, **Shift+LeftArrow** のいずれかの組み合わせを押します。![image](https://user-images.githubusercontent.com/1501327/163929446-c265e09a-5821-4d02-9e37-d005d9760098.png) を押しながらマウスでテキストを選択することもできます。
-3. 文字列のすべての出現箇所にカーソルを作成する - 文字列である 1 つのインスタンスを選択してください。 例えば、`background-color` を選択して ![image](https://user-images.githubusercontent.com/1501327/163927117-63ce47bc-744b-47af-a460-c36317d129d5.png)
+3. 文字列のすべての出現箇所にカーソルを作成する - 文字列である 1 つのインスタンスを選択してください。 例えば、`background-color` を選択して ![image](https://user-images.githubusercontent.com/1501327/163931384-38644c7d-d597-41c8-a957-b787bb37f829.png)
  を押します。この状態で、何か文字を入力することにより、選択された全てのインスタンスを置き換えることができます。
 
 それはマルチカーソル編集のための氷山の一角です。追加のアクションについては、`選択メニュー`の他に、便利な[キーボード操作リファレンスガイド](https://github.com/winofsql/vscode-template/blob/main/keyboard.md)を参照してください。
