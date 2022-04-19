@@ -52,7 +52,7 @@ app.listen(3000);
 }
 ```
 
-> **ヒント:** 良く利用する他の操作としては、コードのブロックをコメントアウトがあります - kb(editor.action.commentLine) を押して、コメントを切り替えることができます。
+> **ヒント:** 良く利用する他の操作としては、コードのブロックをコメントアウトがあります - ![image](https://user-images.githubusercontent.com/1501327/163936730-77c10559-c4da-4c10-b130-fcaf4484dd9a.png) を押して、コメントを切り替えることができます。
 
 ### 名前変更によるリファクタリング (Rename Refactoring)
 
