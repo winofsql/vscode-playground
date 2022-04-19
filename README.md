@@ -40,7 +40,7 @@ app.listen(3000);
 
 テキスト全体をとおし、行を処理することが常に行われるため、この操作を支援するための便利なショートカットキーを用意しています。
 
-1. kb(editor.action.copyLinesDownAction) または、kb(editor.action.copyLinesUpAction) の操作で、行をコピーして、現在のカーソル位置の上または下に挿入します。
+1. ![image](https://user-images.githubusercontent.com/1501327/163935969-adc1c298-3cc7-4d6d-a75b-5f08a9870368.png) または、![image](https://user-images.githubusercontent.com/1501327/163936038-444e1f8a-67d8-43b6-813c-ae5133f96f83.png) の操作で、行をコピーして、現在のカーソル位置の上または下に挿入します。
 2. kb(editor.action.moveLinesUpAction) または kb(editor.action.moveLinesDownAction) の操作で、 行全体または選択された行を上下に移動します。
 3. kb(editor.action.deleteLines) の操作で、カーソルが置かれている行全体を削除します。
 
